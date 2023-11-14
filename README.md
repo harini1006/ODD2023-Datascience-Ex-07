@@ -1,4 +1,5 @@
 # Ex-07-Feature-Selection
+## DATE:
 ## AIM
 To Perform the various feature selection techniques on a dataset and save the data to a file. 
 
@@ -6,7 +7,7 @@ To Perform the various feature selection techniques on a dataset and save the da
 Feature selection is to find the best set of features that allows one to build useful models.
 Selecting the best features helps the model to perform well. 
 
-# ALGORITHM
+## ALGORITHM
 ### STEP 1
 Read the given Data
 ### STEP 2
@@ -16,10 +17,10 @@ Apply Feature selection techniques to all the features of the data set
 ### STEP 4
 Save the data to the file
 
-# CODE AND OUPUT:
+## CODE AND OUPUT:
 ```
-NAME : R . JOYCE BEULAH
-REG NO : 212222230058
+NAME : HARINI V
+REG NO : 212222230044
 ```
 
 
@@ -199,5 +200,5 @@ print(selected_feature)
 ![image](https://github.com/JoyceBeulah/ODD2023-Datascience-Ex-07/assets/118343698/fbc287cf-44b1-404c-96b2-eb3b162649a5)
 
 
-# RESULT :
+## RESULT :
 Thus, the various feature selection techniques have been performed on a given dataset successfully.
